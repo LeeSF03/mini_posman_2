@@ -1,0 +1,9 @@
+.cm-scroller {
+    overflow: auto;
+    max-height: 300px;
+    max-width: 100%;
+}
+
+.cm-wrap {
+    max-width: 100%;
+}
